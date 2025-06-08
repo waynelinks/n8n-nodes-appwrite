@@ -1,0 +1,21 @@
+{
+	"node": "n8n-nodes-base.appwrite",
+	"name": "Appwrite",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "http://appwrite",
+				"name": "Appwrite.org/#/Auth/get_bearer"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "http://appwrite",
+				"name": "Appwrite.org/"
+			}
+		]
+	}
+}
