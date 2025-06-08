@@ -1,5 +1,5 @@
 {
-	"name": "@waynelinks/n8n-nodes-appwrite",
+	"name": "@advento/n8n-nodes-appwrite",
 	"version": "0.1.0",
 	"description": "A comprehensive n8n node for the Appwrite API, controlling databases, storage, functions, and users.",
 	"keywords": [
